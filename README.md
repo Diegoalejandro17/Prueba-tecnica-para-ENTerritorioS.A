@@ -34,7 +34,7 @@ El objetivo es implementar un formulario en **HTML + jQuery** que permita regist
 ### 🎯 Bonus
 
 - Uso de **Bootstrap** para diseño responsivo  
-- Uso de un framework PHP (ejemplo: **CodeIgniter**)  
+- Uso de un framework PHP (ejemplo: **CodeIgniter** **Laravel**)  
 
 ---
 
